@@ -16,6 +16,6 @@
 - 点击合并按钮
 
 # tkinter GUI 界面
-![Alt text](https://github.com/Freemanzxp/PDFMaster/src/GUI.jpg)
+![](https://github.com/Freemanzxp/PDFMaster/raw/master/src/GUI.jpg)
 
 # 后续如果有时间的话就加上水印功能
