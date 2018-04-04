@@ -1,6 +1,10 @@
 # PDFMaster
 最近阅读大神的pdf，发现有些重点的页面需要单独保存，在网上找了半天pdf拆分合并的工具，并没有好用的，所以自己用Python的PyPDF2和tkinter写了一个小工具。
 
+# 代码及运行
+- PdfMake.py是写了一个类，里面封装了PyPDF2的一些读写操作
+- PDFMaster.py是主函数所在文件，python3运行即可
+
 # 拆分模块
 - 点击按钮选择要拆分的PDF文件
 - 点击按钮选择输出路径
@@ -15,4 +19,4 @@
 # tkinter GUI 界面
 ![](https://github.com/Freemanzxp/PDFMaster/raw/master/src/GUI.jpg)
 
-# 后续如果有时间的话就加上水印功能
+## 后续如果有时间的话就加上水印功能
